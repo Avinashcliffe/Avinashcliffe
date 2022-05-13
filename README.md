@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Avinash_cliffe
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data analytics
-- 💞️ I’m looking to work as Data scientist 
 - 📫 How to reach me (avinashcliffe@gmail.com)
 
 <!---
